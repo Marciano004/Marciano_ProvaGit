@@ -1,0 +1,4 @@
+cognome nome Marciano Giuseppe
+materia preferita Informatica
+numero di scarpe 41
+
